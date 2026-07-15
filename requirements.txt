@@ -1,5 +1,5 @@
 numpy
 pandas
-streamlit
-sk-learn
-GBRRegressor
+seaborn
+scikit-learn
+xgboost
